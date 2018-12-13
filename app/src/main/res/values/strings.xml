@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">ImageLibraries</string>
+    <string name="input">Enter</string>
+    <string name="search">Search</string>
 </resources>
